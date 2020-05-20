@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CRUD test","This test will create a new user record and verify its generated","SUCCESS","2020-05-20T08:14:11.029+01:00[Europe/London]","0.0","10.74"
+"User CRUD test","This test will get user from the list","SUCCESS","2020-05-20T08:14:21.865+01:00[Europe/London]","0.0","0.34"
+"User CRUD test","This test will update single user and verify its updated","SUCCESS","2020-05-20T08:14:22.228+01:00[Europe/London]","0.0","0.25"
+"User CRUD test","This test will delete single user ","SUCCESS","2020-05-20T08:14:22.491+01:00[Europe/London]","0.0","0.2"
